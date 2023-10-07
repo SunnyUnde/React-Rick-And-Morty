@@ -8,6 +8,8 @@ This React application allows you to explore the world of "Rick and Morty" by ac
 
 - **Find Episode by Name:** Search for a specific episode by its name.
 
+- **Find Character by Name:** Search for a specific character by its name.
+
 ## Getting Started
 
 Follow these instructions to get a copy of the project up and running on your local machine.

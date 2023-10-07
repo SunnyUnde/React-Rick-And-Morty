@@ -3,6 +3,7 @@ import { BrowserRouter as Router, Route, Switch } from "react-router-dom";
 import FindEpisode from "../src/components/FindEpisode";
 import EpisodeList from "../src/components/EpisodeList";
 import "./styles.css";
+import CharacterDisplay from "./components/CharacterDisplay";
 
 /*Author
 @Neel Shah
