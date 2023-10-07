@@ -17,6 +17,7 @@ export default function App() {
         <Switch>
           <Route exact path="/" component={EpisodeList} />
           <Route exact path="/findbyname" component={FindEpisode} />
+          <Route exact path="/findCharacter" component={CharacterDisplay} />
         </Switch>
       </Router>
     </div>
